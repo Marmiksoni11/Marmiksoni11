@@ -1,4 +1,4 @@
-### Hello Marmik Soni 
+### Hello, I'm Marmik Soni 👋
 
 <a href="https://www.twitter.com/marmiksoni11" target="_blank">
   <img src="https://img.shields.io/twitter/follow/marmiksoni11?style=social" alt="Twitter">
